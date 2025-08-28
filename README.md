@@ -221,7 +221,7 @@ SOFTWARE.
 
 **Aristóteles Quintanar**
 - Email: [axzquint@gmail.com](mailto:axzquint@gmail.com)
-- GitHub: [@aristoteles-quintanar](https://github.com/aristoteles-quintanar)
+- GitHub: [@aristoteles-quintanar](https://github.com/aristotelesquintanar)
 
 ## 🙏 Agradecimientos
 
@@ -233,4 +233,4 @@ SOFTWARE.
 
 ⭐ **¡Si te gusta este proyecto, dale una estrella!** ⭐
 
-*Hecho con ❤️ para la comunid
+*Hecho 
